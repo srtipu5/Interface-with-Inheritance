@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\Explicit_Interface.exe
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\Explicit_Interface.deps.json
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\Explicit_Interface.runtimeconfig.json
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\Explicit_Interface.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\Explicit_Interface.dll
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\ref\Explicit_Interface.dll
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\bin\Debug\net5.0\Explicit_Interface.pdb
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.dll
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\ref\Explicit_Interface.dll
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.pdb
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.genruntimeconfig.cache
+C:\Users\Tipu\Desktop\C# OOP\Explicit_Interface\Explicit_Interface\obj\Debug\net5.0\Explicit_Interface.csprojAssemblyReference.cache
